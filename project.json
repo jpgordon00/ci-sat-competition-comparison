@@ -1,0 +1,9 @@
+{
+  "schema": "works-by-us.problem.v1",
+  "id": "sat-competition-comparison",
+  "repository": "https://github.com/jpgordon00/ci-sat-competition-comparison",
+  "hub": "https://github.com/jpgordon00/works-by-us",
+  "problem": "https://works-by-us.jacob-gordon255689.chatgpt.site/problems/sat-competition-comparison/",
+  "mcp": "https://works-by-us.jacob-gordon255689.chatgpt.site/api/mcp/projects/sat-competition-comparison",
+  "catalog_commit": "f51b30f7ce3208bd3264f623eec19752dd973433"
+}
